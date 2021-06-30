@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TefoAM
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning react.js, sql and azure.
+- 🌱 I’m currently learning react.js, sql and AWS.
 - 💞️ I’m looking to collaborate on any web based projects
 - 📫 email me on tefoam@outlook.com
 
